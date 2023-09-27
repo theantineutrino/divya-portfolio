@@ -9,7 +9,7 @@ const Contact = () => {
       >
         <form
           data-aos="zoom-in"
-          className="flex w-full max-w-md md:w-1/2 rounded-2xl shadow-[0_0_20px_15px] shadow-[#636363] justify-center items-center flex-col gap-5 bg-opacity-5 mx-auto bg-white p-10"
+          className="flex w-full max-w-md md:w-1/2 rounded-2xl max-h-[70vh] shadow-[0_0_20px_15px] shadow-[#636363] justify-center items-center flex-col gap-5 bg-opacity-5 mx-auto bg-white p-10"
           action="mailto:divyaonline20@gmail.com"
         >
           <h1 className="text-3xl md:text-4xl font-bold font-sans font-display text-gray-400 p-4">
