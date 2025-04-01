@@ -1,5 +1,6 @@
 import Card from "./Card";
 import Malhaar from "../assets/Malhaar.png";
+import Antique from "../assets/Antique.png";
 import "aos/dist/aos.css";
 export default function Work() {
   return (
@@ -21,7 +22,11 @@ export default function Work() {
             title="Malhaar Website"
             link="https://malhaarbpit.netlify.app/"
           />
-
+          <Card
+            img={Antique}
+            title="Antiques"
+            link="https://antiquesrep.netlify.app/"
+          />
           {/* <Card img={Malhaar} title="Malhaar Website" />
 
           <Card img={Malhaar} title="Malhaar Website" />
