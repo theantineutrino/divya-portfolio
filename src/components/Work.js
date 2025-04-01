@@ -1,6 +1,6 @@
 import Card from "./Card";
 import Malhaar from "../assets/Malhaar.png";
-import Antique from "../assets/Antique.png";
+import Antique from "../assets/Antique.jpg";
 import "aos/dist/aos.css";
 export default function Work() {
   return (
