@@ -19,7 +19,7 @@ export default function Work() {
           <Card
             img={Malhaar}
             title="Malhaar Website"
-            link="https://malhaar.bpitindia.ac.in/"
+            link="https://malhaarbpit.netlify.app/"
           />
 
           {/* <Card img={Malhaar} title="Malhaar Website" />
